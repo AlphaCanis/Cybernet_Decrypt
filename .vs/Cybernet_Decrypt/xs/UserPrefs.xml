@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{0E58B2E7-828E-8B86-94D4-5009B1B80AEE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Hacker.cs">
+    <Files>
+      <File FileName="Assets/Hacker.cs" Line="157" Column="77" />
+      <File FileName="Assets/WM2000/Keyboard/Keyboard.cs" />
+      <File FileName="Assets/WM2000/Terminal/InputBuffer.cs" />
+      <File FileName="Assets/WM2000/Display/Display.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Cybernet_Decrypt" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="WM2000" expanded="True">
+                <Node name="Keyboard" expanded="True" />
+              </Node>
+              <Node name="Hacker.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e9557af3-81e9-4dc8-8635-284e0606b83d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
